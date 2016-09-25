@@ -70,7 +70,3 @@
 自己copy着实现了一个简易的版本，放在了NoteScanner目录下，一次只能读取一个文件，通过参数`-f`指定读取文件(路径)名，输出名称通过参数`-o`指定，默认格式为**.png**。直接运行.py脚本即可(依赖numpy,PIL和scipy库)，具体参数说明和程序注解可以见我写的一篇**<a href="http://ycoronene.github.io/2016/09/25/Hand-Written-Notes/" target="_blank">说明</a>**，也可以执行脚本时通过参数`-h`查看帮助。
 
 
-
-
-
->>>>>>> ebf248dedeaf783f3650ecf5bdb07f36b7612c75
