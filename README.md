@@ -5,8 +5,6 @@
 1. 从网上看到的别人写的有意思的小项目，学习了之后再自己copy实现一下。
 2. 想到一些idea，自己摸索着实现一下。
 
-* TOC
-{:toc}
 
 ### <a href="https://realpython.com/blog/python/pygame-a-primer/" target="_blank">PyGame - a Primer</a>
 <a href="https://github.com/realpython/pygame-primer" target="_blank">Github Repo</a>
