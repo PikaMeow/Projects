@@ -33,7 +33,7 @@
 
 `2016.09` `python`
 
-<a href="https://mzucker.github.io/2016/09/20/noteshrink.html" target="_blank">Compressing and enhancing hand-written notes</a> <a href="https://github.com/mzucker/noteshrink" target="_blank">Github Repo</a>
+<a href="https://mzucker.github.io/2016/09/20/noteshrink.html" target="_blank">Compressing and enhancing hand-written notes</a> | <a href="https://github.com/mzucker/noteshrink" target="_blank">Github Repo</a>
 
 一个处理手写笔记的程序，通过处理每个像素点的RGB值来增强手写笔迹的清晰度，类似于Office Lens，感觉代码的思路非常清晰，而且还有一些numpy的小技巧。
 
@@ -43,7 +43,7 @@
 
 `2015.12` `python`
 
-<a href="https://realpython.com/blog/python/pygame-a-primer/" target="_blank">PyGame - a Primer</a> <a href="https://github.com/realpython/pygame-primer" target="_blank">Github Repo</a>
+<a href="https://realpython.com/blog/python/pygame-a-primer/" target="_blank">PyGame - a Primer</a> | <a href="https://github.com/realpython/pygame-primer" target="_blank">Github Repo</a>
 
 一个PyGame库的使用入门，介绍了其中的一些基本组件和用途，然后应用这些基本组件写了一个很简单的“打飞机”的游戏。
 
