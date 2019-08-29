@@ -1,0 +1,6 @@
+int a;
+float b;
+a=4*7*10-50;
+b = a /5 /5 /5;
+writa(a);
+write(b).
