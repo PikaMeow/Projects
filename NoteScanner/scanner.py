@@ -11,7 +11,7 @@ def percent(string):
 
 
 def get_argument_parser():
-    # 处理命令行参数
+    #  处理命令行参数
     parser = ArgumentParser(
         description='convert scanned, hand-written notes to PDF'
     )
